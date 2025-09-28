@@ -14,4 +14,5 @@ This is a simple **Streamlit app** that generates images from text prompts using
    git clone https://github.com/YOUR-USERNAME/text-to-image-streamlit.git
    cd text-to-image-streamlit
 pip install -r requirements.txt
+
 streamlit run image_generator.py
